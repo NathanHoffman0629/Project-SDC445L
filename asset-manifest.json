@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project-SDC445L/static/css/main.771b8b0f.css",
+    "main.js": "/Project-SDC445L/static/js/main.3288b820.js",
+    "static/js/488.102c13ca.chunk.js": "/Project-SDC445L/static/js/488.102c13ca.chunk.js",
+    "index.html": "/Project-SDC445L/index.html",
+    "main.771b8b0f.css.map": "/Project-SDC445L/static/css/main.771b8b0f.css.map",
+    "main.3288b820.js.map": "/Project-SDC445L/static/js/main.3288b820.js.map",
+    "488.102c13ca.chunk.js.map": "/Project-SDC445L/static/js/488.102c13ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.771b8b0f.css",
+    "static/js/main.3288b820.js"
+  ]
+}
