@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h2 {
+  display: block;
+  margin-top: 40px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.workout-list {
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+.workout-entry {
+  display: block;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.goal-input {
+  margin-bottom: 200px;
+}
+
+.goal-input h2 {
+  margin-bottom: 15px;
+}
+
+.goal-input input {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.history-container {
+  margin-top: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
